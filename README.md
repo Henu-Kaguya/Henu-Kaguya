@@ -16,6 +16,14 @@
 - **计算机体系结构 (Computer Architecture)**: [Computer Architecture](https://github.com/Henu-Kaguya/Computer-Architecture)
 - **计算机图形学 (Computer Graphics)**: [Computer Graphics](https://github.com/Henu-Kaguya/Computer-Graphics)
 - **编译原理 (Compiler Principles)**: [Compiler Principles](https://github.com/Henu-Kaguya/Compiler-Principles)
+- **计算机组织原理 (Principles of Computer Organization)**: [Principles-of-Computer-Organization](https://github.com/Henu-Kaguya/Principles-of-Computer-Organization)
+- **运筹学 (Operational Research)**: [Operational-Research](https://github.com/Henu-Kaguya/Operational-Research)
+- **数字图像处理 (Digital Image Processing)**: [Digital-Image-Processing](https://github.com/Henu-Kaguya/Digital-Image-Processing)
+- **C#程序设计 (CSharp Programming)**: [CSharp-Programing](https://github.com/Henu-Kaguya/CSharp-Programing)
+  - **C#程序设计Demo (CSharp Programming Demo)**: [CSharp-Programing-Demo](https://github.com/Henu-Kaguya/CSharp-Programing-Demo)
+- **C#网络应用编程 (CSharp Network Application Programming)**: [CSharp-Network-Application-Programming](https://github.com/Henu-Kaguya/CSharp-Network-Application-Programming)
+  - **C#网络应用编程Demo (CSharp Network Demo)**: [CSharp-Network-Demo](https://github.com/Henu-Kaguya/CSharp-Network-Demo)
+- **C Primer Plus程序设计 (C Primer Plus Programming)**: [C-Primer-Plus-Programming](https://github.com/Henu-Kaguya/C-Primer-Plus-Programming)
 
 ---
 
