@@ -69,3 +69,8 @@
 ### 视频推荐
 
 - [【考试周破防】4K高清重制版](https://www.bilibili.com/video/BV1XM4y1c7Jp)
+
+
+## 开源协议 / License
+
+本项目采用 [CC BY-NC-SA 4.0 (署名-非商业性使用-相同方式共享)](LICENSE) 许可协议。
