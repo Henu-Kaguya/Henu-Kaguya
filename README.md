@@ -39,6 +39,17 @@
 - **C#网络应用编程 (CSharp Network Application Programming)**: [CSharp-Network-Application-Programming](https://github.com/Henu-Kaguya/CSharp-Network-Application-Programming)
   - **C#网络应用编程Demo (CSharp Network Demo)**: [CSharp-Network-Demo](https://github.com/Henu-Kaguya/CSharp-Network-Demo)
 - **C Primer Plus程序设计 (C Primer Plus Programming)**: [C-Primer-Plus-Programming](https://github.com/Henu-Kaguya/C-Primer-Plus-Programming)
+- **算法设计与分析 (Algorithmic Design and Analysis)**: [Algorithmic-Design-and-Analysis](https://github.com/Henu-Kaguya/Algorithmic-Design-and-Analysis)
+- **电路与电子学基础 (Basic Circuit and Electronics)**: [Basic-Circuit-and-Electronics](https://github.com/Henu-Kaguya/Basic-Circuit-and-Electronics)
+- **计算思维与创新 (Computational Thinking and Innovation)**: [Computational-Thinking-and-Innovation](https://github.com/Henu-Kaguya/Computational-Thinking-and-Innovation)
+- **计算机导论 (Introduction to Computer Science)**: [Introduction-to-Computer-Science](https://github.com/Henu-Kaguya/Introduction-to-Computer-Science)
+- **离散数学 (Discrete Mathematics)**: [Discrete-Mathematics](https://github.com/Henu-Kaguya/Discrete-Mathematics)
+- **逻辑设计 (Logic Design)**: [Logic-Design](https://github.com/Henu-Kaguya/Logic-Design)
+  - **逻辑设计实验 (Experiment of Logic Design)**: [Experiment-of-Logic-Design](https://github.com/Henu-Kaguya/Experiment-of-Logic-Design)
+- **计算机系统概论 (Introduction to Computer Systems)**: [Introduction-to-Computer-Systems](https://github.com/Henu-Kaguya/Introduction-to-Computer-Systems)
+- **自然语言处理 (Natural Language Processing)**: [Natural-Language-Processing](https://github.com/Henu-Kaguya/Natural-Language-Processing)
+- **计算机伦理 (Computer Ethics)**: [Computer-Ethics](https://github.com/Henu-Kaguya/Computer-Ethics)
+- **计算机科学与技术小学期 (CS Small Term)**: [CS-Small-Term](https://github.com/Henu-Kaguya/CS-Small-Term)
 
 ---
 
