@@ -24,7 +24,6 @@
 ## 各科资料仓库
 
 - **计算机专业各科资料 (按学期分类)**: [HENU-ComputerScience](https://github.com/Henu-Kaguya/HENU-ComputerScience)
-- **HENU-CS 计算机资料 (历史版本)**: [HENU-CS](https://github.com/HENU-CS)
 - **数学专业各科资料 (按学期分类)**: [HENU-Math](https://github.com/Henu-Kaguya/HENU-Math)
 - **语言认证 / 专项备考**: [TOEFL 托福备考](https://github.com/Sonder9999/TOEFL)
 
@@ -63,7 +62,7 @@
 ## 推荐阅读
 
 - [提问的艺术 (The Smart Way)](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
-- [HENU-CS](https://github.com/HENU-CS)
+- [HENU-CS 组织](https://github.com/HENU-CS)
 - [CS 自学指南](https://csdiy.wiki/)
 - [CS 国外中文课程资源](https://www.learncs.site/)
 - [DeepWiki](https://deepwiki.com/)
