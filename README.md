@@ -23,33 +23,10 @@
 
 ## 各科资料仓库
 
-- **软件工程 (Software Engineering)**: [Software Engineering](https://github.com/Henu-Kaguya/Software-Engineering)
-- **操作系统 (Operating System)**: [Operating System](https://github.com/Henu-Kaguya/Operating-System)
-- **计算机网络 (Computer Network)**: [Computer Network](https://github.com/Henu-Kaguya/Computer-Network)
-- **机器学习 (Machine Learning)**: [Machine Learning](https://github.com/Henu-Kaguya/Machine-Learning)
-- **数据库原理 (Database Principles)**: [Database Principles](https://github.com/Henu-Kaguya/Database-Principles)
-- **计算机体系结构 (Computer Architecture)**: [Computer Architecture](https://github.com/Henu-Kaguya/Computer-Architecture)
-- **计算机图形学 (Computer Graphics)**: [Computer Graphics](https://github.com/Henu-Kaguya/Computer-Graphics)
-- **编译原理 (Compiler Principles)**: [Compiler Principles](https://github.com/Henu-Kaguya/Compiler-Principles)
-- **计算机组织原理 (Principles of Computer Organization)**: [Principles-of-Computer-Organization](https://github.com/Henu-Kaguya/Principles-of-Computer-Organization)
-- **运筹学 (Operational Research)**: [Operational-Research](https://github.com/Henu-Kaguya/Operational-Research)
-- **数字图像处理 (Digital Image Processing)**: [Digital-Image-Processing](https://github.com/Henu-Kaguya/Digital-Image-Processing)
-- **C#程序设计 (CSharp Programming)**: [CSharp-Programing](https://github.com/Henu-Kaguya/CSharp-Programing)
-  - **C#程序设计Demo (CSharp Programming Demo)**: [CSharp-Programing-Demo](https://github.com/Henu-Kaguya/CSharp-Programing-Demo)
-- **C#网络应用编程 (CSharp Network Application Programming)**: [CSharp-Network-Application-Programming](https://github.com/Henu-Kaguya/CSharp-Network-Application-Programming)
-  - **C#网络应用编程Demo (CSharp Network Demo)**: [CSharp-Network-Demo](https://github.com/Henu-Kaguya/CSharp-Network-Demo)
-- **C Primer Plus程序设计 (C Primer Plus Programming)**: [C-Primer-Plus-Programming](https://github.com/Henu-Kaguya/C-Primer-Plus-Programming)
-- **算法设计与分析 (Algorithmic Design and Analysis)**: [Algorithmic-Design-and-Analysis](https://github.com/Henu-Kaguya/Algorithmic-Design-and-Analysis)
-- **电路与电子学基础 (Basic Circuit and Electronics)**: [Basic-Circuit-and-Electronics](https://github.com/Henu-Kaguya/Basic-Circuit-and-Electronics)
-- **计算思维与创新 (Computational Thinking and Innovation)**: [Computational-Thinking-and-Innovation](https://github.com/Henu-Kaguya/Computational-Thinking-and-Innovation)
-- **计算机导论 (Introduction to Computer Science)**: [Introduction-to-Computer-Science](https://github.com/Henu-Kaguya/Introduction-to-Computer-Science)
-- **离散数学 (Discrete Mathematics)**: [Discrete-Mathematics](https://github.com/Henu-Kaguya/Discrete-Mathematics)
-- **逻辑设计 (Logic Design)**: [Logic-Design](https://github.com/Henu-Kaguya/Logic-Design)
-  - **逻辑设计实验 (Experiment of Logic Design)**: [Experiment-of-Logic-Design](https://github.com/Henu-Kaguya/Experiment-of-Logic-Design)
-- **计算机系统概论 (Introduction to Computer Systems)**: [Introduction-to-Computer-Systems](https://github.com/Henu-Kaguya/Introduction-to-Computer-Systems)
-- **自然语言处理 (Natural Language Processing)**: [Natural-Language-Processing](https://github.com/Henu-Kaguya/Natural-Language-Processing)
-- **计算机伦理 (Computer Ethics)**: [Computer-Ethics](https://github.com/Henu-Kaguya/Computer-Ethics)
-- **计算机科学与技术小学期 (CS Small Term)**: [CS-Small-Term](https://github.com/Henu-Kaguya/CS-Small-Term)
+- **计算机专业各科资料 (按学期分类)**: [HENU-ComputerScience](https://github.com/Henu-Kaguya/HENU-ComputerScience)
+- **HENU-CS 计算机资料 (历史版本)**: [HENU-CS](https://github.com/HENU-CS)
+- **数学专业各科资料 (按学期分类)**: [HENU-Math](https://github.com/Henu-Kaguya/HENU-Math)
+- **语言认证 / 专项备考**: [TOEFL 托福备考](https://github.com/Sonder9999/TOEFL)
 
 ---
 
@@ -90,7 +67,7 @@
 - [CS 自学指南](https://csdiy.wiki/)
 - [CS 国外中文课程资源](https://www.learncs.site/)
 - [DeepWiki](https://deepwiki.com/)
-- [日语学习资料](https://my.feishu.cn/wiki/YeOSwsG7giLuQxkcDFscUXVZn2f)
+- [从 0 开始学外语：Refold 路线图](https://zhuanlan.zhihu.com/p/671671625)
 
 ### 视频推荐
 
